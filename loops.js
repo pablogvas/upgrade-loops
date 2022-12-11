@@ -34,5 +34,12 @@ for(alumn of alumns){
     console.log(alumn);
 }
 
-console.log(alumns[3].T3);
+
+// Iteración #3 //
+
+const placesToTravel = ['Japon', 'Venecia', 'Murcia', 'Santander', 'Filipinas', 'Madagascar']
+
+for(let sitios of placesToTravel) {
+    console.log(sitios);
+}
 
